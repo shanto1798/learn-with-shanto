@@ -1,0 +1,17 @@
+/* top part start */
+.logo{
+    width: 100px;
+    height: 100px;
+}
+.navbar-brand{
+    position: relative;
+}
+.navbar-brand h3 {
+    position: absolute;
+    top: 50px;
+    left: 90px;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+}
+/* top part end */
