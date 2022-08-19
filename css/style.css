@@ -23,3 +23,24 @@
     background-size: cover;
     padding: 100px 0;
 }
+
+.course-amount{
+    height: 620px;
+    width: 580px;
+}
+.course-rate{
+    background-color: rgb(224, 146, 0) !important;
+    border-radius: 10px !important;
+    -webkit-border-radius: 10px !important;
+    -moz-border-radius: 10px !important;
+    -ms-border-radius: 10px !important;
+    -o-border-radius: 10px !important;
+    padding: 10px;
+}
+.buy{
+    text-align: center;
+}
+.btn-color{
+    background-color: rgb(23, 23, 97) !important;
+}
+/* banner part end */
